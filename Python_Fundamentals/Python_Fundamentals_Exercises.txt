@@ -1,0 +1,9 @@
+Python Fundamentals
+
+Exercise 1 – Hello World
+Introduction
+Get started with Python by writing simple scripts that utilize some of the base features in Python.
+
+Tasks
+1. Write a basic Python script
+2. Write a basic Python script that includes and modifies user input
