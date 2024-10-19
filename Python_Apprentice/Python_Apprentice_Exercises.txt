@@ -1,0 +1,102 @@
+Python Apprentice
+
+Exercise 1 - File Handling
+Introduction
+Welcome to the File Handling Python Lab. Your assignment for this exercise is to use Python to read the contents of a CSV file and save it to a JSON file while implementing appropriate exception handling.
+
+Tasks
+Use Python to read the contents of the CSV file, iris.csv (located in the Assets directory in the FILETREE) and save it to a JSON file while implementing appropriate exception handling data
+1.	Load the contents of the CSV file
+2.	Handle file and csv format exceptions
+3.	Process or filter the data as necessary
+4.	Save the resulting data to a file in JSON format
+
+
+Exercise 2 - Object Oriented Programming
+Introduction
+Welcome to the Object Oriented Programming Python Lab. Your assignment for this exercise is to derive a class and implement polymorphism in your program using Python.
+
+Tasks
+Derive a class and implement polymorphism in your program using Python
+1.	Implement a Python class to be derived
+2.	Implement methods in the class
+3.	Implement a subclass
+4.	Override methods in the subclass
+5.	Demonstrate use of the classes by printing results and output to the console
+
+
+Exercise 3 - Special Method Names
+Introduction
+Welcome to the Special Method Names Python Lab. Your assignment for this exercise is to Implement special method names in a Python class and call them in your program.
+
+Tasks
+Implement special method names in a Python class and call them in your program
+1.	Create a basic Python class
+2.	Implement an __init__ method
+3.	Implement __repr__ and __str__ methods
+4.	Implement comparison or numeric special methods as appropriate for your class
+
+
+Exercise 4 - Static and Abstract Classes
+Introduction
+Welcome to the Static and Abstract Classes Python Lab. Your assignment for this exercise is to implement an abstract class and use static methods in a Python program.
+
+Tasks
+Implement an abstract class and use static methods in a Python program
+1.	Create a class that implements an abstract method
+2.	Create a subclass
+3.	Implement a static method in the subclass
+4.	Instantiate the class and output its contents
+
+
+Exercise 5 - Use a List as a Stack
+Introduction
+Welcome to the Use a List as a Stack Python Lab. Your assignment for this exercise is to recognize how a Python list can be used as a stack by loading and unloading elements from the same end and to answer the assessment questions.
+
+Tasks
+Recognize how a Python list can be used as a stack by loading and unloading elements from the same end
+1.	Create a List to be used as a stack
+2.	Push elements onto the stack
+3.	Pop elements off of the stack
+4.	Output the contents of the stack
+
+
+Exercise 6 - Python Queues
+Introduction
+Welcome to the Python Queues Python Lab. Your assignment for this exercise is to use the native Queue class of Python and perform standard queue operations on it and to answer the assessment questions.
+
+Tasks
+Use the native queue class of Python and perform standard queue operations on it
+1.	Implement a queue using the appropriate Python collection
+2.	Add elements to the queue
+3.	Pop elements from the queue in first-in, first-out fashion
+4.	Display the final contents of the queue
+
+
+Exercise 7 - Graphs as an Adjacency Matrix
+Introduction
+Welcome to the Graphs as an Adjacency Matrix Python Lab. Your assignment for this exercise is to implement a graph as an adjacency matrix in Python and to answer the assessment questions.
+
+Tasks
+Implement a graph as an adjacency matrix in Python
+1.	Create a graph class that implements an adjacency matrix
+2.	Implement a method to add an edge to the graph
+3.	Implement a method to remove an edge from the graph
+4.	Implement a method to display the contents of the matrix
+5.	Construct a graph and display its contents
+
+
+Exercise 8 - Tree Traversal
+Introduction
+Welcome to the Tree Traversal Python Lab. Your assignment for this exercise is to traverse a Binary Search Tree (BST) in depth-first and breadth-first order in Python and to answer the assessment questions.
+
+Tasks
+Traverse a Binary Search Tree (BST) in depth-first and breadth-first order in Python
+1.	Create a class to implement a binary search tree
+2.	Implement an insertion method
+3.	Implement a method to traverse the tree in depth-first order
+4.	Implement a method to traverse the tree in breadth-first order
+5.	Create an instance of the tree and insert data
+6.	Display the data points in their traversal orders
+
+

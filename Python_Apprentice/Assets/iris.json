@@ -1,0 +1,12 @@
+{
+    "species": [
+        "versicolor",
+        "virginica",
+        "setosa"
+    ],
+    "counts": {
+        "setosa": 50,
+        "versicolor": 50,
+        "virginica": 50
+    }
+}
